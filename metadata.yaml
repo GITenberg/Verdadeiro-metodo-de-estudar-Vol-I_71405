@@ -1,11 +1,16 @@
 _repo: Verdadeiro-metodo-de-estudar-Vol-I_71405
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71405-h/images/cover.jpg
 creator:
   author:
     agent_name: Verney, Luís António
     gutenberg_agent_id: '56215'
     url: http://www.gutenberg.org/2009/agents/56215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71405#Verdadeiro-metodo-de-estudar-Vol-I
 gutenberg_issued: '2023-08-14'
 identifiers:
   gutenberg: '71405'
